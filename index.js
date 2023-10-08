@@ -14,3 +14,5 @@ console.log de tu hermosa vida
         console.log("este es un console.log despues de que me depositaran el sueldo de todos por error ! psdt : ya me fui del pais XD.");
     }
 }
+
+module.exports = ConsoleLogsito;
