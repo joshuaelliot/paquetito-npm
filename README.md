@@ -50,7 +50,8 @@ Este método muestra en tu terminal el siguiente mensaje:
 `Este es un console.log después de que me depositaron el sueldo de todos por error! 
 PSDT: ¡Ya me fui del país! XD.`
 ```
-Contribución
+## Contribución
+
 Si deseas contribuir a este proyecto, siéntete libre de abrir problemas (issues) o enviar solicitudes de extracción (pull requests) en GitHub.
 
 Licencia
