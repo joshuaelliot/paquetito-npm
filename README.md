@@ -10,7 +10,7 @@ Para utilizar este paquete en tu proyecto, puedes instalarlo con npm o yarn:
 npm install paquetito-npm
 # o
 yarn add paquetito-npm
-
+```
 Uso
 Importar el paquete
 Puedes importar la clase `ConsoleLogsito` en tu código de la siguiente manera:
@@ -20,19 +20,19 @@ ES6 Modules
 import ConsoleLogsito from "paquetito-npm";
 
 const paquetitoNpm = new ConsoleLogsito();
-
+```
 CommonJS
 ```javascript
 const ConsoleLogsito = require("paquetito-npm");
 
 const paquetitoNpm = new ConsoleLogsito();
-
+```
 Utilizar la clase
 Una vez que hayas importado la clase, puedes utilizarla para mostrar mensajes divertidos en la consola:
 ```javascript
 paquetitoNpm.consoleSad();
 
-
+```
 Métodos Disponibles
 `consoleSad()`
 
