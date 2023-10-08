@@ -35,16 +35,21 @@ paquetitoNpm.consoleSad();
 ```
 
 Métodos Disponibles:
-
-`consoleSad()`
+```javascript
+consoleSad()
+```
 Este método muestra en la terminal el siguiente mensaje:
-Este es un console.log después de tumbar el servidor que tenía la planilla de la empresa.
-
-`consoleHappy()`
+```javascript
+"Este es un console.log después de tumbar el servidor que tenía la planilla de la empresa."
+```
+```javascript
+consoleHappy()
+```
 Este método muestra en tu terminal el siguiente mensaje:
-Este es un console.log después de que me depositaron el sueldo de todos por error! 
-PSDT: ¡Ya me fui del país! XD.
-
+```javascript
+`Este es un console.log después de que me depositaron el sueldo de todos por error! 
+PSDT: ¡Ya me fui del país! XD.`
+```
 Contribución
 Si deseas contribuir a este proyecto, siéntete libre de abrir problemas (issues) o enviar solicitudes de extracción (pull requests) en GitHub.
 
