@@ -33,9 +33,10 @@ Una vez que hayas importado la clase, puedes utilizarla para mostrar mensajes di
 paquetitoNpm.consoleSad();
 
 ```
-Métodos Disponibles
-`consoleSad()`
 
+Métodos Disponibles:
+
+`consoleSad()`
 Este método muestra en la terminal el siguiente mensaje:
 Este es un console.log después de tumbar el servidor que tenía la planilla de la empresa.
 
